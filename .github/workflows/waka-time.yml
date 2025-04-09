@@ -22,4 +22,4 @@ jobs:
           SHOW_SHORT_INFO : "False"
           SHOW_PROJECTS : "False"
           SHOW_TOTAL_CODE_TIME : "True"
-          SHOW_TITLE : "True"
+          SHOW_TITLE : true
