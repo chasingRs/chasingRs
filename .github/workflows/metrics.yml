@@ -1,5 +1,5 @@
 # https://github.com/lowlighter/metrics
-name: GitHub Metrics
+name: Metrics
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: PongKJ
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
