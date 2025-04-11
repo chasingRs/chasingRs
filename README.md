@@ -13,9 +13,9 @@
 </td></tr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-406-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-427-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -23,13 +23,17 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      7 mins              █████████████████████████   100.00 % 
+Rust                     1 hr 14 mins        ████████████████░░░░░░░░░   64.06 % 
+C++                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Desktop file             12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Lua                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+Neovim                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -45,7 +49,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2025 11:42:55 UTC
+ Last Updated on 11/04/2025 01:54:51 UTC
 <!--END_SECTION:waka-->
 
 <table>
