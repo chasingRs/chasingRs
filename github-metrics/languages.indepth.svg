@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 784kb of code in 374 edited files across 61 commits</small>
+                <small>estimation from 827kb of code in 403 edited files across 62 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="257.0434964075962" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="257.0434964075962" y="0" width="155.7583797911139" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="412.8018761987101" y="0" width="44.59251309264725" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.39438929135736" y="0" width="2.605610708642638" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.73835483385545" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="273.73835483385545" y="0" width="142.94595913304786" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="416.68431396690335" y="0" width="40.92440845064" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.6087224175434" y="0" width="2.3912775824566683" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Rust
                             </div>
                             <small>
-                                <div>4.22k lines</div>
-                                <div>112 kB</div>
+                                <div>4.92k lines</div>
+                                <div>130 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
