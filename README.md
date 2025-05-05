@@ -13,11 +13,9 @@
 </td></tr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,7 +48,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 02:03:18 UTC
+ Last Updated on 05/05/2025 08:44:57 UTC
 <!--END_SECTION:waka-->
 
 <table>
