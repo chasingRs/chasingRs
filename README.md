@@ -1,16 +1,12 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PongKJ&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=PongKJ&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
+# 👋 Hi there, I'm chasingRs!
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PongKJ&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-</td></tr>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+  
+</div>
+
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2038%20mins-blue)
@@ -50,27 +46,69 @@ QML                      1 repo              █░░░░░░░░░░�
  Last Updated on 25/09/2025 01:43:09 UTC
 <!--END_SECTION:waka-->
 
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
 <table>
   <tr>
-    <!-- metrics 基础资料 -->
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/base.svg"/>
+      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/base.svg" alt="GitHub Metrics Base"/>
     </td>
-    <!-- GitHub 数据统计 -->
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/languages.indepth.svg" alt="languages.indepth" />
-      <br>
-      <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PongKJ&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" />
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/languages.indepth.svg" alt="Languages Analysis" />
+      <br><br>
+      <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PongKJ&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<!-- GitHub metrics 信息指标 -->
+</div>
+
+---
+
+## ⏰ Detailed Time Tracking
+
 <div align="center">
   
 <table>
-    <td><img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://wakatime.com/share/@PongKJ/fb6b71c6-d171-495f-a7b4-eae1c915ea3c.svg" width="500" alt="Wakatime"/></td>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/wakatime.svg" alt="WakaTime Metrics" />
+    </td>
+    <td align="center">
+      <img src="https://wakatime.com/share/@PongKJ/fb6b71c6-d171-495f-a7b4-eae1c915ea3c.svg" width="500" alt="WakaTime Chart"/>
+    </td>
+  </tr>
 </table>
+  
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/chasingRs?label=Follow&style=social)](https://github.com/chasingRs)
+[![GitHub stars](https://img.shields.io/github/stars/chasingRs?label=Stars&style=social)](https://github.com/chasingRs)
+
+</div>
+
+<div align="center">
+  
+  💡 *"The best way to predict the future is to create it"* 💡
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=chasingRs&color=green&style=flat-square)
+  
+  ⭐ From [chasingRs](https://github.com/chasingRs)
   
 </div>
