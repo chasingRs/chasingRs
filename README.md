@@ -1,13 +1,3 @@
-# 👋 Hi there, I'm chasingRs!
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
-  
-</div>
-
-## 📊 Weekly Development Breakdown
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2036%20mins-blue)
 
