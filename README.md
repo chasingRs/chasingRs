@@ -7,14 +7,13 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 17 mins        ████████████████████████░   97.72 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -30,7 +29,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 02:34:27 UTC
+ Last Updated on 21/02/2026 02:23:47 UTC
 <!--END_SECTION:waka-->
 
 ---
