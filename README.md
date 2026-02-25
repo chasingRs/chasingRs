@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -7,13 +7,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 1 min         ███████████████░░░░░░░░░░   61.43 % 
+JavaScript               1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -29,7 +33,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 02:35:34 UTC
+ Last Updated on 25/02/2026 02:33:28 UTC
 <!--END_SECTION:waka-->
 
 ---
