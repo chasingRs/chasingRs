@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -7,34 +7,34 @@
 
 ```text
 💬 Programming Languages: 
-C++                      28 hrs 33 mins      ███████████████████░░░░░░   77.35 % 
-Python                   3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Other                    2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-INI                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++                      11 hrs 52 mins      ██████████████░░░░░░░░░░░   54.67 % 
+Other                    4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+BlitzBasic               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 hrs 58 mins      ████████████████████████░   97.42 % 
-Linux                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Windows                  20 hrs 10 mins      ███████████████████████░░   92.96 % 
+Linux                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-Rust                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C                        12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+Rust                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 03/04/2026 02:43:04 UTC
+ Last Updated on 05/04/2026 02:51:31 UTC
 <!--END_SECTION:waka-->
 
 ---
