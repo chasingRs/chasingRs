@@ -1,3 +1,39 @@
+<div align="center">
+
+# Hi there 👋, I'm Kangjian Peng
+
+<p>
+  <a href="https://github.com/chasingRs"><img src="https://img.shields.io/github/followers/chasingRs?label=Followers&style=for-the-badge" alt="followers" /></a>
+  <a href="https://github.com/chasingRs"><img src="https://img.shields.io/github/stars/chasingRs?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=chasingRs&color=green&style=for-the-badge" alt="profile views" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Focused on building reliable and efficient software
+- 🌱 Continuously learning systems, backend, and tooling
+- 💡 *"The best way to predict the future is to create it"*
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/base.svg" alt="GitHub Metrics Base" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/languages.indepth.svg" alt="Languages Analysis" />
+  <br/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PongKJ&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" alt="GitHub Stats" />
+</div>
+
+---
+
+## ⏱️ Weekly Coding Activity
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2047%20mins-blue?style=flat)
 
@@ -36,69 +72,16 @@ Lua                      1 repo              █░░░░░░░░░░�
  Last Updated on 27/04/2026 03:30:16 UTC
 <!--END_SECTION:waka-->
 
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/base.svg" alt="GitHub Metrics Base"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/languages.indepth.svg" alt="Languages Analysis" />
-      <br><br>
-      <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PongKJ&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## ⏰ Detailed Time Tracking
-
-<div align="center">
-  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/wakatime.svg" alt="WakaTime Metrics" />
-    </td>
-    <td align="center">
-      <img src="https://wakatime.com/share/@PongKJ/fb6b71c6-d171-495f-a7b4-eae1c915ea3c.svg" width="500" alt="WakaTime Chart"/>
-    </td>
-  </tr>
-</table>
-  
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/chasingRs?label=Follow&style=social)](https://github.com/chasingRs)
-[![GitHub stars](https://img.shields.io/github/stars/chasingRs?label=Stars&style=social)](https://github.com/chasingRs)
-
-</div>
-
-<div align="center">
-  
-  💡 *"The best way to predict the future is to create it"* 💡
-  
+  <img src="https://cdn.jsdelivr.net/gh/PongKJ/PongKJ/github-metrics/wakatime.svg" alt="WakaTime Metrics" />
+  <br/>
+  <img src="https://wakatime.com/share/@PongKJ/fb6b71c6-d171-495f-a7b4-eae1c915ea3c.svg" width="520" alt="WakaTime Chart" />
 </div>
 
 ---
 
 <div align="center">
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=chasingRs&color=green&style=flat-square)
-  
-  ⭐ From [chasingRs](https://github.com/chasingRs)
-  
+
+⭐ From [chasingRs](https://github.com/chasingRs)
+
 </div>
