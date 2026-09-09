@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **embassy_dev, gnss-iot-device, gnss-iot-module**
+- 🔭 I’m currently working on **embassy_dev, gnss-iot-module, gnss-iot-device**
 - 🌱 I’m currently learning deeper into **Deep Leaning, SLAM, Path Planning, Drone Swarm**
 - 💬 Ask me about **C, C++, Rust, Embedded Linux, SLAM**
 - 📫 How to reach me: **pkjinfinity@outlook.com**
